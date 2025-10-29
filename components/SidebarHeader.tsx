@@ -5,7 +5,7 @@ const SidebarHeader = () => {
   return (
     <div className="flex mb-4 gap-4 px-4">
       <SiOpenaigym className="w-6 h-6 text-primary"/>
-      <h2 className="text-base font-extrabold text-primary">GPT Tours</h2>
+      <h2 className="text-base font-extrabold text-primary mr-auto">GPT Tours</h2>
       <ThemeToggle/>
     </div>
   )
