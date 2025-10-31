@@ -4,3 +4,4 @@
 - npm i -D daisyui@latest
 - npm install @clerk/nextjs
 - npm install react-icons --save
+- npm install react-hot-toast
