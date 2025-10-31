@@ -1,5 +1,7 @@
+import { UserProfile } from "@clerk/nextjs";
+
 const ProfilePAge = () => {
-    return ( <div>ProfilePage</div> );
+    return ( <UserProfile routing="hash"/> );
 }
  
 export default ProfilePAge;
