@@ -1,7 +1,7 @@
 import { UserProfile } from "@clerk/nextjs";
 
-const ProfilePAge = () => {
+const ProfileaPge = () => {
     return ( <UserProfile routing="hash"/> );
 }
  
-export default ProfilePAge;
+export default ProfilePage;
